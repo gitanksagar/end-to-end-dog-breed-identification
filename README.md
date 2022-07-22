@@ -1,1 +1,1 @@
-this folder contains notebooks.
+this folder contains notebook.
